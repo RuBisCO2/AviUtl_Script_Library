@@ -1,4 +1,3 @@
-AviUtl Script Library
 
 ## AviUtl Script Libraryとは
 有志の方々が公開されているAviUtl スクリプトをできる限り集め、CSV形式でまとめたもの。

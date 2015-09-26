@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# ビルド
+go build getsmid.go
+go build smi2csv.go
+
 # 指定タグで検索される動画のvideo IDを取得
 ./getsmid.exe AviUtlスクリプト 1 2 > smid.list
 ./getsmid.exe AviUtlスクリプト講座 1 7 >> smid.list
